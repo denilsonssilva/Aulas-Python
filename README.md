@@ -1,2 +1,2 @@
 # DIO
-Aulas de Python
+Códigos de Python desenvolvidas durante o curso de programação.
